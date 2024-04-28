@@ -8,7 +8,7 @@ GetAround is the Airbnb for cars. You can rent cars from any person for a few ho
 
 ### Strimlit Dashboard:
 You can access the Streamlit dashboard through the following link:
-[GetAround Dashboard](https://getaround-project-eb814de77a21.herokuapp.com/)
+[GetAround Dashboard](https://getaround-str-new-32c7db9ea197.herokuapp.com/)
 
 ### Documented Online API on Heroku Server:
 You can access the documented online API on the Heroku server through the following link:
